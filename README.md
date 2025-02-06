@@ -4,8 +4,10 @@
 
 2 - Run with python
 
-Very simple and easy to use.<br>
+Very simple and easy to use.
+
 If you have a **LOT** of files it **MAY** take a little bit longer than usual
+
 <hr/>
 
 # Compatibility
