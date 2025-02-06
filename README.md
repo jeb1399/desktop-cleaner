@@ -4,7 +4,7 @@
 
 2 - Run with python
 
-Very simple and easy to use.
+Very simple and easy to use.<br>
 If you have a **LOT** of files it **MAY** take a little bit longer than usual
 <hr/>
 
